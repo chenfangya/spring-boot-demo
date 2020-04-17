@@ -69,5 +69,6 @@
 		<module>spring-boot-web-thymeleaf</module>
 		<module>spring-boot-admin</module>
 		<module>spring-boot-shiro</module>
+		<module>springboot-redis</module>
 	</modules>
 </project>

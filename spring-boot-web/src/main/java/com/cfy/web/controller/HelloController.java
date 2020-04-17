@@ -13,5 +13,4 @@ public class HelloController {
 	public String hello(Locale locale, Model model) {
 		return "Hello World";
 	}
-
 }
